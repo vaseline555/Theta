@@ -1,0 +1,4 @@
+!/.gitignore
+.claude
+*.pyc
+*__pycache__*
